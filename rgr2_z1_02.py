@@ -266,4 +266,3 @@ if __name__ == "__main__":
         plot_x_max = max(plot_x_max, max_r + 0.5)
 
     plot_function_and_roots(all_roots, x_min=plot_x_min, x_max=plot_x_max)
-
